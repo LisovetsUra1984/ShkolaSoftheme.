@@ -19,8 +19,14 @@ namespace Console_1
             Console.WriteLine("Привет, " + sName);
             Console.WriteLine("Нажмите ENTER что бы выйти из программы");
             Console.Read();
+            
+
+            }
+            
+
+            }
 
         }
     
-    }
-}
+    
+
