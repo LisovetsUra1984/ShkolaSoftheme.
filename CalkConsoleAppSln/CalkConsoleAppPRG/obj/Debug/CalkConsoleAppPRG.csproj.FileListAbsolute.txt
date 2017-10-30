@@ -1,0 +1,7 @@
+C:\Users\Lis\source\repos\CalkConsoleAppSln\CalkConsoleAppPRG\bin\Debug\CalkConsoleAppPRG.exe.config
+C:\Users\Lis\source\repos\CalkConsoleAppSln\CalkConsoleAppPRG\bin\Debug\CalkConsoleAppPRG.exe
+C:\Users\Lis\source\repos\CalkConsoleAppSln\CalkConsoleAppPRG\bin\Debug\CalkConsoleAppPRG.pdb
+C:\Users\Lis\source\repos\CalkConsoleAppSln\CalkConsoleAppPRG\obj\Debug\CalkConsoleAppPRG.csprojResolveAssemblyReference.cache
+C:\Users\Lis\source\repos\CalkConsoleAppSln\CalkConsoleAppPRG\obj\Debug\CalkConsoleAppPRG.csproj.CoreCompileInputs.cache
+C:\Users\Lis\source\repos\CalkConsoleAppSln\CalkConsoleAppPRG\obj\Debug\CalkConsoleAppPRG.exe
+C:\Users\Lis\source\repos\CalkConsoleAppSln\CalkConsoleAppPRG\obj\Debug\CalkConsoleAppPRG.pdb
