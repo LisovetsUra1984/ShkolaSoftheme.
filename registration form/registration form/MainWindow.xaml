@@ -1,0 +1,37 @@
+﻿<Window x:Class="registration_form.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:registration_form"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="0,0,0,-152">
+        <Label x:Name="First_name_text_box" Content="First name" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,0" Width="99" Height="26"/>
+        <Label x:Name="birth_date_text_box" Content="Birth date" HorizontalAlignment="Left" Margin="10,95,0,0" VerticalAlignment="Top" Width="99" Height="26"/>
+        <Label x:Name="Additional_info_textbox" Content="Additional info" HorizontalAlignment="Left" Margin="10,239,0,0" VerticalAlignment="Top" Width="99" Height="26"/>
+        <Label x:Name="last_name_text_box" Content="Last name" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top" Width="99" Height="26"/>
+        <Label x:Name="phone_number_text_box" Content="Phone number" HorizontalAlignment="Left" Margin="10,175,0,0" VerticalAlignment="Top" Width="99" Height="26"/>
+        <Label x:Name="Emeil_textbox" Content="Emeil" HorizontalAlignment="Left" Margin="10,208,0,0" VerticalAlignment="Top" Width="99" Height="26"/>
+        <Label x:Name="gender_text_box" Content="Gender" HorizontalAlignment="Left" Margin="10,135,0,0" VerticalAlignment="Top" Width="99" Height="26"/>
+        <TextBox x:Name="FirstNameTextBox" HorizontalAlignment="Left" Height="23" Margin="178,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="Ura"/>
+        <TextBox x:Name="LastNameTextBox" HorizontalAlignment="Left" Height="23" Margin="178,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="Lisovets"/>
+        <TextBox x:Name="GenderTextBox" HorizontalAlignment="Left" Height="23" Margin="178,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="male"/>
+        <TextBox x:Name="BirthDateTextBox" HorizontalAlignment="Left" Height="23" Margin="178,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="02.11.1984"/>
+        <TextBox x:Name="PhoneNumberTextBox" HorizontalAlignment="Left" Height="23" Margin="178,175,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="093 500 94 12"/>
+        <TextBox x:Name="EmailTextBox" HorizontalAlignment="Left" Height="23" Margin="178,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="plaut213@bigmir.net"/>
+        <TextBox x:Name="AdditionalInfoTextBox" HorizontalAlignment="Left" Height="23" Margin="178,238,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="317" RenderTransformOrigin="0.5,0.5" Text="Ефективна діяльність сучасного дошкільного навчального закладу значною мірою залежить від управлінських якостей керівника, його професійної компетентності. Сучасний управлінець має бути мобільним, конкурентноздатним, презентувати себе на ринку праці; вміти використовувати знання як інструмент для розв'язання управлінських проблем; уміти здобувати, аналізувати та використовувати інформацію; генерувати нові ідеї.">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.337"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Button x:Name="register_btn" Content="Register" HorizontalAlignment="Left" Margin="109,286,0,0" VerticalAlignment="Top" Width="75" Click="register_btn_Click"/>
+        <Button x:Name="canselbtn" Content="Cancel" HorizontalAlignment="Left" Margin="310,286,0,0" VerticalAlignment="Top" Width="75" Click="canselbtn_Click"/>
+
+    </Grid>
+</Window>

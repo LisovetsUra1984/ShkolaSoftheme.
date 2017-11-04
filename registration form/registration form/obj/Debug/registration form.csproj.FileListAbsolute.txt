@@ -1,0 +1,15 @@
+C:\Users\Lis\source\repos\registration form\registration form\bin\Debug\registration form.exe.config
+C:\Users\Lis\source\repos\registration form\registration form\bin\Debug\registration form.exe
+C:\Users\Lis\source\repos\registration form\registration form\bin\Debug\registration form.pdb
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\registration form.csprojResolveAssemblyReference.cache
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\MainWindow.g.cs
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\App.g.cs
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\registration form_MarkupCompile.cache
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\registration form_MarkupCompile.lref
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\MainWindow.baml
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\registration form.g.resources
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\registration_form.Properties.Resources.resources
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\registration form.csproj.GenerateResource.Cache
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\registration form.csproj.CoreCompileInputs.cache
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\registration form.exe
+C:\Users\Lis\source\repos\registration form\registration form\obj\Debug\registration form.pdb
