@@ -1,0 +1,7 @@
+C:\Users\Приём\source\repos\ZZZodiak\ZZZodiak\bin\Debug\ZZZodiak.exe.config
+C:\Users\Приём\source\repos\ZZZodiak\ZZZodiak\bin\Debug\ZZZodiak.exe
+C:\Users\Приём\source\repos\ZZZodiak\ZZZodiak\bin\Debug\ZZZodiak.pdb
+C:\Users\Приём\source\repos\ZZZodiak\ZZZodiak\obj\Debug\ZZZodiak.csprojResolveAssemblyReference.cache
+C:\Users\Приём\source\repos\ZZZodiak\ZZZodiak\obj\Debug\ZZZodiak.csproj.CoreCompileInputs.cache
+C:\Users\Приём\source\repos\ZZZodiak\ZZZodiak\obj\Debug\ZZZodiak.exe
+C:\Users\Приём\source\repos\ZZZodiak\ZZZodiak\obj\Debug\ZZZodiak.pdb
