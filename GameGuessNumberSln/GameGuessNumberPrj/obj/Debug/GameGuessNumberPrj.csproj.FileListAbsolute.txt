@@ -1,0 +1,15 @@
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\bin\Debug\GameGuessNumberPrj.exe.config
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\bin\Debug\GameGuessNumberPrj.exe
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\bin\Debug\GameGuessNumberPrj.pdb
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\GameGuessNumberPrj.csprojResolveAssemblyReference.cache
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\MainWindow.g.cs
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\App.g.cs
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\GameGuessNumberPrj_MarkupCompile.cache
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\GameGuessNumberPrj_MarkupCompile.lref
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\MainWindow.baml
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\GameGuessNumberPrj.g.resources
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\GameGuessNumberPrj.Properties.Resources.resources
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\GameGuessNumberPrj.csproj.GenerateResource.Cache
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\GameGuessNumberPrj.csproj.CoreCompileInputs.cache
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\GameGuessNumberPrj.exe
+C:\Users\Lis\source\repos\GameGuessNumberSln\GameGuessNumberPrj\obj\Debug\GameGuessNumberPrj.pdb
