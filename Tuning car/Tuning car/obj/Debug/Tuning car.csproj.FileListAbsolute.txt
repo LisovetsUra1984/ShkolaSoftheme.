@@ -1,0 +1,7 @@
+C:\Users\Lis\source\repos\Tuning car\Tuning car\bin\Debug\Tuning car.exe.config
+C:\Users\Lis\source\repos\Tuning car\Tuning car\bin\Debug\Tuning car.exe
+C:\Users\Lis\source\repos\Tuning car\Tuning car\bin\Debug\Tuning car.pdb
+C:\Users\Lis\source\repos\Tuning car\Tuning car\obj\Debug\Tuning car.csprojResolveAssemblyReference.cache
+C:\Users\Lis\source\repos\Tuning car\Tuning car\obj\Debug\Tuning car.csproj.CoreCompileInputs.cache
+C:\Users\Lis\source\repos\Tuning car\Tuning car\obj\Debug\Tuning car.exe
+C:\Users\Lis\source\repos\Tuning car\Tuning car\obj\Debug\Tuning car.pdb
